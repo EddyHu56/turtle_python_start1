@@ -1,6 +1,6 @@
 from turtle import *
 
-color("yellow")
+color("green")
 begin_fill()
 forward(200)
 left(90)
